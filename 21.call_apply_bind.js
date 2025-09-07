@@ -1,6 +1,9 @@
+//call , apply and bind
+
+
 // i need the wrong answers
 let student = {
-       name : "R.Chandra",
+       name : "P.rajitha",
        location : "Andhrapradesh",
        getStudentDetails : function(){
             console.log(this);  // a.window. b.Refers objet itself  c.error
